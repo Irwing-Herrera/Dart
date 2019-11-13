@@ -12,5 +12,4 @@ main() {
   // al ser un metodo estatico se tiene acceso
   // Herramientas.listado.add('Tenazas');
   Herramientas.imprimir();
-  
 }
